@@ -1,3 +1,34 @@
+<!-- Header -->
+# Cinephile Application with React Native 
+
+![Static Badge](https://img.shields.io/badge/v8.1-b?logo=npm&label=npm) ![Static Badge](https://img.shields.io/badge/v16.13-b?label=nodeJs)
+![Static Badge](https://img.shields.io/badge/VsCode-c?color=blue) ![Static Badge](https://img.shields.io/badge/React%20N-c?color=blue) ![Static Badge](https://img.shields.io/badge/Java-c?color=red) ![Static Badge](https://img.shields.io/badge/Firebase-c?logo=Firebase&color=gray)
+
+
+
+
+
+📝 Description
+
+This repository contains Cinéphile, a React website tailored for avid film aficionados. Delve into a meticulously organized collection of movies sorted by distinct categories. Featuring an intuitive interface and advanced search functionalities, effortlessly discover the ideal film for your upcoming movie night. Immerse yourself in the cinematic realm with us, all from the convenience of your web browser.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App and Redux
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
