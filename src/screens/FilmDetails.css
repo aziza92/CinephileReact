@@ -1,0 +1,91 @@
+.detailDiv{
+  background-color: black;
+   height: 100vb;
+}
+.backdrop{
+    position: relative;
+    height: 520px;
+    color: white;
+    object-fit: contain; 
+}
+.fadBottom{
+    height: 3.4rem;
+    background-image: linear-gradient(
+        180deg,
+        transparent, 
+        rgba(37, 37, 37, 0.21),
+        #111
+        );
+        padding-top: 470px;
+}
+.wrapperDiv{
+  background-color: black;
+}
+.content{
+    display: flex;
+    flex-direction: column;
+    overflow-y: hidden;
+    margin: 20px;  
+    padding-bottom: 10px;
+}
+
+.title{
+    font-family: fantasy;
+    color: white;
+    font-size: 3rem;
+    font-weight: 800;
+    padding-bottom: 0.3rem;
+    color: white;   
+    align-self: center;
+}
+
+.buttonFav{
+    background: none;
+    border: none;
+    cursor: pointer;
+} 
+
+.iconFav{
+  width: 50px;
+  height: 50px;
+  color: #E100FF ;
+}
+
+.overview{
+    font: italic;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    margin: 5px;
+    bottom: 15px;
+    font-weight: 200;
+}
+
+.defaultText{
+    font-size: 1rem;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    font: italic; 
+    font-weight: 400;
+    margin: 4px;
+   
+  }
+
+  .noDetails{
+    display: flex;
+    height: 100vb;
+    flex-direction: column;
+    justify-content: center;
+   
+  }
+  .Aucun{
+    font-size: 3rem;
+    font-weight: 800;
+    padding-bottom: 0.3rem;
+    color: white; 
+    align-self: center;
+  }
+  .catIcon{
+    height: 150px;
+    width: 150px;
+     align-self: center;
+  }

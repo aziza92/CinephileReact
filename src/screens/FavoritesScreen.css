@@ -1,0 +1,69 @@
+.favScreen__body{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 8% ;
+    max-width: 800px;
+}
+
+.favScreen__body > h1{
+  font-size: 40px;
+  font-weight: 300;
+  align-self: center;
+  color: white;
+  margin-bottom: 20px;
+  font-family: fantasy;
+}
+
+.posters{
+    display: flex;
+    overflow-y: hidden;
+    flex-wrap: wrap;
+    padding: 20px;
+    align-self: center;
+    justify-content: center;
+}
+.container{ 
+    position: relative;
+     padding: 12px;
+ }
+/* .row__posters::-webkit-scrollbar{
+    display: none;
+} */
+
+ .poster{
+max-height: 100px;
+object-fit: contain;
+/* width: 100%; */
+margin-right: 10px;
+transition:  transform 450ms;
+}
+.poster:hover{
+    transform: scale(1.08);
+    opacity: 1;
+}
+.posterLarge{
+max-height: 300px;
+margin-right: 15px;
+}
+
+.posterLarge:hover{
+    transform: scale(1.09);
+    opacity: 1;
+}
+
+ .button{
+    position: absolute;
+    top: 14px; 
+    left:12px; 
+    color: #E100FF ;
+    background: none;
+    border: none;
+    cursor: pointer;
+} 
+.iconHeart{
+  width: 20px;
+  height: 20px;
+}

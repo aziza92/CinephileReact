@@ -1,0 +1,11 @@
+.scrollDiv{
+    display: flex;
+    flex-direction: column;
+    overflow-y: hidden;
+    overflow-x: scroll;
+    padding: 20px;
+    cursor: pointer;
+}
+.scrollDiv::-webkit-scrollbar{
+    display: none;
+}
