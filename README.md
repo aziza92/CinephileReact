@@ -2,8 +2,7 @@
 # Cinephile Application with React Native 
 
 ![Static Badge](https://img.shields.io/badge/v8.1-b?logo=npm&label=npm) ![Static Badge](https://img.shields.io/badge/v16.13-b?label=nodeJs)
-![Static Badge](https://img.shields.io/badge/VsCode-c?color=blue) ![Static Badge](https://img.shields.io/badge/React%20N-c?color=blue) ![Static Badge](https://img.shields.io/badge/Java-c?color=red) ![Static Badge](https://img.shields.io/badge/Firebase-c?logo=Firebase&color=gray)
-
+![Static Badge](https://img.shields.io/badge/VsCode-c?color=blue) ![Static Badge](https://img.shields.io/badge/React%20-c?color=blue) ![Static Badge](https://img.shields.io/badge/Java-c?color=red) ![Static Badge](https://img.shields.io/badge/Firebase-c?logo=Firebase&color=gray)
 
 
 
@@ -12,22 +11,29 @@
 
 This repository contains Cinéphile, a React website tailored for avid film aficionados. Delve into a meticulously organized collection of movies sorted by distinct categories. Featuring an intuitive interface and advanced search functionalities, effortlessly discover the ideal film for your upcoming movie night. Immerse yourself in the cinematic realm with us, all from the convenience of your web browser.
 
+## Features
+
+-  Detailed Information: Access comprehensive details about each movie, including synopsis, cast, and ratings.
+-  Favorites List: Easily add movies to your favorites list for quick access.
+-  Browse Different Categories: Explore various movie categories for a diverse selection.
+-  Secure User Authentication: Login to your account securely with Firebase authentication, accessing personalized features and data.
+
+
+  #
+<img src="[https://github.com/aziza92/Cinephile/assets/64699474/985c3353-242a-440d-b707-43c52924eee9](https://github.com/aziza92/CinephileReact/assets/64699474/6186f30f-a1ba-46d9-b4ba-72a596a1c902).gif" width="400" height="300"> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="[https://github.com/aziza92/Cinephile/assets/64699474/81bf9acc-b2a3-4789-a2aa-ce353842acc0](https://github.com/aziza92/CinephileReact/assets/64699474/aa437360-2289-482a-9978-6710458dc564).jpg" width="300" height="600"> <br>
+
+<br>
 
 
 
+ 🛠 Tech stack
 
-
-
-
-
-
-
-
-
-
-
-
-
+- Node.js and npm
+- React
+- Redux
+- VsCode
+- Git
 
 # Getting Started with Create React App and Redux
 
@@ -75,3 +81,15 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+
+
+## 👏 How to Contribute
+
+Feel free to fork this repository, submit issues, and make pull requests. Any contributions to enhance the functionality and user experience of the Cinephile application are welcome.
+
+📄 License
+
+Copyright © 2024 Aziza Elgoul
+
+This project is licensed under the [MIT](https://opensource.org/license/mit) License. See the LICENSE file for more details.
