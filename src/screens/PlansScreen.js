@@ -49,7 +49,7 @@ export default function PlantsScreen() {
       if (sessionId) {
         // stripe
         const stripe = await loadStripe(
-          "sk_test_51MC0YCLNbjRGuJOeQKJPYjiMLyKPQ0IwnNy5oe6YTRzHF5GZ3IBPNH3VG6ALMIItYQEH7hlPTPAmnbG9pSg3BadN00R9jK1O6X"
+          ""
         );
         stripe.redirectToCheckout({ sessionId });
         return (
@@ -63,46 +63,7 @@ export default function PlantsScreen() {
       }
     });
   };
-  // const CheckoutForm = () => {
-  //   // stripe
-  //   const stripe = loadStripe(
-  //     "pk_test_51MC0YCLNbjRGuJOeJlxeIdZD70cg65wzxfARoBexisOUPUSq1CRuxRHf8c6RPoknNqS6qeMUasbm15My9MYSnzyp00pERew8cC"
-  //   );
-  //   const options = {
-  //     // passing the client secret obtained from the server
-  //     clientSecret:
-  //       "{{sk_test_51MC0YCLNbjRGuJOeQKJPYjiMLyKPQ0IwnNy5oe6YTRzHF5GZ3IBPNH3VG6ALMIItYQEH7hlPTPAmnbG9pSg3BadN00R9jK1O6X}}",
-  //   };
-  //   const handleSubmit = async (event) => {
-  //     event.preventDefault();
-
-  //     const { stripe, elements } = this.props;
-
-  //     if (!stripe || !elements) {
-  //       return;
-  //     }
-
-  //     const result = await stripe.confirmPayment({
-  //       elements,
-  //       confirmParams: {
-  //         return_url: "https://example.com/order/123/complete",
-  //       },
-  //     });
-
-  //     if (result.error) {
-  //       console.log(result.error.message);
-  //     } else {
-  //     }
-  //   };
-  //   return (
-  //     <Elements onSubmit={handleSubmit} stripe={stripe} options={options}>
-  //       <form>
-  //         <PaymentElement />
-  //         <button>Submit</button>
-  //       </form>
-  //     </Elements>
-  //   );
-  // };
+ 
 
   //console.log(products);
   return (
