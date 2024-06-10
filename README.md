@@ -1,5 +1,5 @@
 <!-- Header -->
-# Cinephile Application with React Native 
+# Cinephile Application  React 
 
 ![Static Badge](https://img.shields.io/badge/v8.1-b?logo=npm&label=npm) ![Static Badge](https://img.shields.io/badge/v16.13-b?label=nodeJs)
 ![Static Badge](https://img.shields.io/badge/VsCode-c?color=blue) ![Static Badge](https://img.shields.io/badge/React%20-c?color=blue) ![Static Badge](https://img.shields.io/badge/Java-c?color=red) ![Static Badge](https://img.shields.io/badge/Firebase-c?logo=Firebase&color=gray)
@@ -20,8 +20,8 @@ This repository contains Cinéphile, a React website tailored for avid film afic
 
 
   #
-<img src="[https://github.com/aziza92/Cinephile/assets/64699474/985c3353-242a-440d-b707-43c52924eee9](https://github.com/aziza92/CinephileReact/assets/64699474/6186f30f-a1ba-46d9-b4ba-72a596a1c902).gif" width="400" height="300"> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="[https://github.com/aziza92/Cinephile/assets/64699474/81bf9acc-b2a3-4789-a2aa-ce353842acc0](https://github.com/aziza92/CinephileReact/assets/64699474/aa437360-2289-482a-9978-6710458dc564).jpg" width="300" height="600"> <br>
+<img src="https://github.com/aziza92/CinephileReact/assets/64699474/6186f30f-a1ba-46d9-b4ba-72a596a1c902.gif" width="400" height="300"> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/aziza92/CinephileReact/assets/64699474/aa437360-2289-482a-9978-6710458dc564.jpg" width="400" height="600"> <br>
 
 <br>
 
