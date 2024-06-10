@@ -23,7 +23,7 @@ This repository contains Cinéphile, a React website tailored for avid film afic
   <img src="https://github.com/aziza92/CinephileReact/assets/64699474/1fb9d5f6-e437-4577-9152-ffb8e819e5a8.jpg" width="800" height="500">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
   <img src="https://github.com/aziza92/CinephileReact/assets/64699474/6186f30f-a1ba-46d9-b4ba-72a596a1c902.gif" width="800" height="500">
   <img src="https://github.com/aziza92/CinephileReact/assets/64699474/c99764e5-7362-4cbd-acdc-9bdd2b3ee051.gif" width="800" height="500">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-  <img src="https://github.com/aziza92/CinephileReact/assets/64699474/6186f30f-a1ba-46d9-b4ba-72a596a1c902.gif" width="800" height="500">
+  <img src="https://github.com/aziza92/CinephileReact/assets/64699474/b18e653e-1aec-4083-b919-ce4afd6bfe4e.gif" width="800" height="500">
 
 
 <br>
